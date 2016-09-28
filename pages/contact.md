@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: "Contact"
 meta_title: "Contact us - Jaaga Startup"
 subheadline: ""
