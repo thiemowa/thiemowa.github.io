@@ -25,7 +25,7 @@ author: Jaaga Startup
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://thiemowa.github.io'
+url: 'https://thiemowa.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://thiemowa.github.io/images/'
+urlimg: 'https://thiemowa.github.io/images/'
 
 
 # Logo size is 600x80 pixels
