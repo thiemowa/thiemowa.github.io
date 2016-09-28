@@ -17,8 +17,11 @@ We understand the skill gaps amongst startups and work with a pool of experts to
   	<img src="{{ site.url }}{{ site.baseurl }}/images/shaona.jpg" alt="Shaona">
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/shaonasen">Shaona</a></b> is a user-centred designer and visual communicator. She's helping us build the design component of our support framework for startups.
-  </div>
+  	> Coworking is about people, not space. It's about collaboration, not cubicles. It's about the journey, not the destination.
 </div>
+    <div >
+    
+    
+    </div>
 <br>
 
