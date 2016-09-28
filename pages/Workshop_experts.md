@@ -14,10 +14,12 @@ We understand the skill gaps amongst startups and work with a pool of experts to
 
 <div class="row">
   <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/shaona.jpg" alt="Shaona">
+    Bild
   </div>
   <div class="large-6 columns">
-  	> Coworking is about people, not space. It's about collaboration, not cubicles. It's about the journey, not the destination.
+     
+     > Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se.
+
 </div>
     <div >
     
