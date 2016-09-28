@@ -3,8 +3,8 @@ layout: page
 title: "Experts"
 meta_title: "Experts - Jaaga Startup"
 subheadline: ""
-teaser: ""
-permalink: "/experts/"
+teaser: "testing teaser"
+permalink: "/experts2/"
 ---
 
 We understand the skill gaps amongst startups and work with a pool of experts to help plug these gaps. 
