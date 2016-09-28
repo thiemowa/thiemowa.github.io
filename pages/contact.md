@@ -13,6 +13,8 @@ permalink: "/contact/"
 - For our urban arts initiative, head over to [**Jaaga DNA**](http://jaaga.in/dna)
 - For our software skilling initiative, head over to [**Jaaga Study**](http://jaaga.in/study)
 
+>Test comment
+
 ## Our Location
 Jaaga Startup
 PH1, Sixth Floor, Rich Homes
