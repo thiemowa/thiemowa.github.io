@@ -5,7 +5,7 @@ meta_title: "Experts - Jaaga Startup"
 subheadline: ""
 teaser: ""
 permalink: "/experts2/"
-name: "test"
+expert_name: "test"
 ---
 
 
