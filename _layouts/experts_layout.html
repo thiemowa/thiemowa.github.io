@@ -48,10 +48,9 @@ format: post
 			{% endif %}
 		</article>
 	</div><!-- /.medium-8.columns -->
-	<!DOCTYPE html>
-	
-<h1><strong><em>{{ name }}</em></strong></h1>
-<p><em>Sales and Marketing Expert</em></p>
+	<div>
+	<h1><strong><em>{{ page.name }}</em></strong></h1>
+		<p><em>Sales and Marketing Expert</em></p>
 <table width="603">
 <tbody>
 <tr>
@@ -72,6 +71,7 @@ format: post
 <p><a href="https://twitter.com/marketlabz">https://twitter.com/marketlabz</a></p>
 <p><a href="https://www.instagram.com/marketlabz/">https://www.instagram.com/marketlabz/</a></p>
 
+	</div>
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">
 		{% include _sidebar.html %}
