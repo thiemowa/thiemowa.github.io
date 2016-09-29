@@ -46,17 +46,16 @@ format: post
 			{% if page.comments == true %}
 			{% include _comments.html %}
 			{% endif %}
-		</article>
-	</div><!-- /.medium-8.columns -->
-	
-	<br>
-	
-	<body>
+				
 	<div class="container" align= "left">
 		<h1>{{ page.expert_name }}</h1>
 		<p class="subheadline"><em>{{ page.expert_domain }}</em><p>
 	</div>
 	
+		</article>
+	</div><!-- /.medium-8.columns -->
+	
+
 	<div class="row">
 		<div class="large-6 columns">
 	<img src="http://marketlabz.com/wp-content/uploads/2016/04/hitz-photo-5-300x300.jpg" alt="picture_Hitesh" width="300" height="300" />
@@ -68,7 +67,7 @@ format: post
 	</div>
 	
 	<hr />
-	</body>
+	
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">
 		{% include _sidebar.html %}
