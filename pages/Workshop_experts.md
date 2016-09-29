@@ -15,7 +15,7 @@ Also worked with the world's best Digital marketer, Neil Patel as Internet marke
 Has worked on 100+ marketing campaigns and a few of them are IBM Australian Open, SAPPHIRE, Oracle Open World, etc.
 He's currently leading Market Labz and helping various companies and individuals with their digital marketing activities
 "
-expert_offer_webinars: "2"
+expert_offer_webinars: ""
 expert_offer_counselling: "1"
 expert_offer_workshop: "1"
 ---
