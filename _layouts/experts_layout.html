@@ -60,7 +60,7 @@ format: post
 		<div class="large-6 columns">
 	<img src="http://marketlabz.com/wp-content/uploads/2016/04/hitz-photo-5-300x300.jpg" alt="picture_Hitesh" width="300" height="300" />
 	</div>	
-	<div class="large-6 columns" orientation="center">
+	<div class="large-6 columns" align= "center">
 	<blockquote> {{ page.expert_quote }} </blockquote>
 	</div>
 		
@@ -81,16 +81,23 @@ format: post
 		{{ page.expert_offer }}
 	</div>
 	
+	
 	<div class="row">
-        <div class="small-12 text-center columns">
+		{% if page.expert_offer_webinars %}
+        <div class="large-6 columns">
             <a class="button small radius alert" href="">Book a webinare with {{ page.expert_name }} now! </a>
-        </div><!-- /.medium-4.columns -->
-	<div class="small-12 text-center columns">
+        </div>
+		{% endif %}
+		{% if page.expert_offer_counselling %}
+	<div class="large-6 columns">
             <a class="button small radius alert" href="">Book a one-to-one counselling with {{ page.expert_name }} now! </a>
-        </div><!-- /.medium-4.columns -->
+        </div>
+		{% endif %}
+		{% if page.expert_offer_workshop %}
 	<div class="small-12 text-center columns">
             <a class="button small radius alert" href="">Book a workshop with {{ page.expert_name }} now! </a>
-        </div><!-- /.medium-4.columns -->
+        </div>
+		{% endif %}
     </div><!-- /.row -->
 	
 	
