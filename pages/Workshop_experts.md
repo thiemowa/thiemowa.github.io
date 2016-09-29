@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: experts_layout
 title: "Experts"
 meta_title: "Experts - Jaaga Startup"
 subheadline: ""
