@@ -94,31 +94,20 @@ format: post
 	</div>
 		
 	<br>
-	<!-- Display of the call-to-action button depending on the experts offers -->		
-	
-	<div class= "container" align= "center">
-		{% if page.expert_offer_webinars %}
-        <div>
-            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a webinare with {{ page.expert_name }} now! </a>
-        </div>
-		{% endif %}
-		{% if page.expert_offer_counselling %}
-	<div>
-            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a one-to-one counselling with {{ page.expert_name }} now! </a>
-        </div>
-		{% endif %}
-		{% if page.expert_offer_workshop %}
-	<div>
-            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a workshop with {{ page.expert_name }} now! </a>
-        </div>
-		{% endif %}
-	
+	<hr />
+	<!-- Display of the call-to-action button depending on the experts offers -->	
+			
+		
+	<div class="container" align= "left">
+		<h5><strong>Interested in {{page.expert_first_name}}?</strong></h5>
+	</div>
+			
 	<table>
     <tr>
         <td><b>Workshop</b></td>
         <td>{% if page.expert_offer_webinars %}
         <div>
-            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a workshop with {{ page.expert_name }}! </a>
+            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a workshop now! </a>
         </div>
 		{% endif %}</td>
         <td>₹5000</td>
@@ -127,7 +116,7 @@ format: post
         <td><b>One-to-One Counselling</b></td>
         <td>{% if page.expert_offer_counselling %}
 	<div>
-            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a one-to-one counselling with {{ page.expert_name }}! </a>
+            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a one-to-one counselling now! </a>
         </div>
 		{% endif %}</td>
         <td>₹4000</td>
@@ -136,7 +125,7 @@ format: post
         <td><b>Service contract</b></td>
         <td>{% if page.expert_offer_workshop %}
 	<div>
-            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a workshop with {{ page.expert_name }} now! </a>
+            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a service contracvt now! </a>
         </div>
 		{% endif %}</td>
         <td>₹2000</td>
