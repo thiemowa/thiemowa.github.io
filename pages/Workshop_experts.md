@@ -15,9 +15,9 @@ expert_description: "Has played some key Digital Marketing roles when at IBM-Aus
 Also worked with the world's best Digital marketer, Neil Patel as Internet marketing consultant helping startups to billion $ companies with their Digital Marketing strategies. 
 Has worked on 100+ marketing campaigns and a few of them are IBM Australian Open, SAPPHIRE, Oracle Open World, etc.
 He's currently leading Market Labz and helping various companies and individuals with their digital marketing activities"
-expert_offer_webinars: ""
-expert_offer_counselling: "1"
-expert_offer_workshop: "1"
+expert_offer_service: "3000₹"
+expert_offer_counselling: "2000₹"
+expert_offer_workshop: "5000₹"
 ---
 
 
