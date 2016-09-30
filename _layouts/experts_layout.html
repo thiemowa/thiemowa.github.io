@@ -99,7 +99,7 @@ format: post
 			
 		
 	<div class="container" align= "left">
-		<h5><strong>Interested in {{page.expert_first_name}}?</strong></h5>
+		<h5><strong>Interested in {{page.expert_first_name}}? Look what he offers?</strong></h5>
 	</div>
 			
 	<table>
@@ -110,25 +110,25 @@ format: post
             <a class="button small radius alert" href="" align= "center" min-width="500px">Book a workshop now! </a>
         </div>
 		{% endif %}</td>
-        <td>₹5000</td>
+        <td> {{page.expert_offer_workshop}} </td>
     </tr>   
     <tr>
         <td><b>One-to-One Counselling</b></td>
         <td>{% if page.expert_offer_counselling %}
 	<div>
-            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a one-to-one counselling now! </a>
+            <a class="button small radius alert" href="" align= "center" min-width="500px">Book a 1-to-1 counselling now! </a>
         </div>
 		{% endif %}</td>
-        <td>₹4000</td>
+        <td>{{page.expert_offer_counselling}}</td>
     </tr>
     <tr>
         <td><b>Service contract</b></td>
-        <td>{% if page.expert_offer_workshop %}
+        <td>{% if page.expert_offer_service %}
 	<div>
             <a class="button small radius alert" href="" align= "center" min-width="500px">Book a service contracvt now! </a>
         </div>
 		{% endif %}</td>
-        <td>₹2000</td>
+        <td>{{page.expert_offer_service}}</td>
     </tr>
 
 </table>	
