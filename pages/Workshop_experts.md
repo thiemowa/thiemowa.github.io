@@ -1,6 +1,6 @@
 ---
 layout: experts_layout
-title: "Our Workshop Experts"
+title: ""
 meta_title: "Experts - Jaaga Startup"
 subheadline: ""
 teaser: ""
