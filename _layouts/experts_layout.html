@@ -49,7 +49,7 @@ format: post
 				
 	<div class="container" align= "left">
 		<h1>{{ page.expert_name }}</h1>
-		<p class="subheadline"><em>{{ page.expert_domain }}</em><p>
+		<p class="subheadline"><em>{{ page.expert_domain }} Expert</em><p>
 	</div>
 
 
@@ -67,6 +67,10 @@ format: post
 	<hr /> 
 	<br>
 			
+	<div class="container" align= "left">
+		<h5>Why {{page.expert_domain}}?</h5>
+	</div>
+			
 	<div>
 		{{ page.expert_description }}
 	</div>
@@ -81,8 +85,8 @@ format: post
 	<hr />
 	<br>
 			
-	<div>
-		{{ page.expert_offer }}
+	<div class="container" align= "left">
+		<h5>Why {{page.expert_first_name}} is an expert in {{page.expert_domain}}?</h5>
 	</div>
 	
 	
