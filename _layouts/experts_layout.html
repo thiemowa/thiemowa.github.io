@@ -68,8 +68,10 @@ format: post
 	<br>
 			
 	<div class="container" align= "left">
-		<h5>Why {{page.expert_domain}} is important for young Start Ups?</h5>
+		<h4>Why {{page.expert_domain}} is important for young entrepreneurs?</h4>
 	</div>
+	
+	<br>
 			
 	<div>
 		{{ page.expert_description }}
@@ -88,26 +90,32 @@ format: post
 	<div class="container" align= "left">
 		<h5>Why {{page.expert_first_name}} is an expert in {{page.expert_domain}}?</h5>
 	</div>	
+	
+	<br>
+	<div>
+		{{ page.expert_description }}
+	</div>
+	
 			
 	<br>
 	<hr />
 	<br>
 	
 	
-	<div class= "row">
+	<div class= "container" align= "center">
 		{% if page.expert_offer_webinars %}
         <div>
-            <a class="button small radius alert" href="" align= "center" width="500px">Book a webinare with {{ page.expert_name }} now! </a>
+            <a class="button small radius alert" href="" align= "center" max-width="500px">Book a webinare with {{ page.expert_name }} now! </a>
         </div>
 		{% endif %}
 		{% if page.expert_offer_counselling %}
 	<div>
-            <a class="button small radius alert" href="" align= "center" width="500px">Book a one-to-one counselling with {{ page.expert_name }} now! </a>
+            <a class="button small radius alert" href="" align= "center" max-width="500px">Book a one-to-one counselling with {{ page.expert_name }} now! </a>
         </div>
 		{% endif %}
 		{% if page.expert_offer_workshop %}
 	<div>
-            <a class="button small radius alert" href="" align= "center" width="500px">Book a workshop with {{ page.expert_name }} now! </a>
+            <a class="button small radius alert" href="" align= "center" max-width="500px">Book a workshop with {{ page.expert_name }} now! </a>
         </div>
 		{% endif %}
 		
