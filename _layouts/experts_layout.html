@@ -52,6 +52,7 @@ format: post
 		<p class="subheadline"><em>{{ page.expert_domain }} Expert</em><p>
 	</div>
 
+	<!-- Display of experts picture and quote-->
 
 	<div class="row">
 		<div class="large-6 columns">
@@ -64,12 +65,15 @@ format: post
 	</div>
 			
 	<hr /> 
+			
 	<br>	
+	<!-- Display of "Why the experts domain is important"-->
+
 	<div class="container" align= "left">
 		<h4><strong> Why {{page.expert_domain}} is important for young entrepreneurs?</strong></h4>
 	</div>
 	
-	<br>http://www.varnamhomestay.com/
+	<br>
 			
 	<div>
 		{{ page.expert_description }}
@@ -77,11 +81,14 @@ format: post
 			
 	<br>		
 	<hr />
-			
+	
+	<!-- Display of a potential workshop picutre with the expert-->
+
 	<p><img src="http://marketlabz.com/wp-content/uploads/2014/10/about_img_top.jpg" alt="Workshop_Picture" align="center" orientation= "center"/></p>
 	
 	<br>
 	<hr />
+	<!-- Display of the "Why experts is an expert in his domain" -->
 			
 	<div class="container" align= "left">
 		<h5><strong>Why {{page.expert_first_name}} is an expert in {{page.expert_domain}}?</strong></h5>
@@ -93,6 +100,7 @@ format: post
 	</div>
 		
 	<br>
+	<!-- Display of the call-to-action button depending on the experts offers -->		
 	
 	<div class= "container" align= "center">
 		{% if page.expert_offer_webinars %}
@@ -110,11 +118,12 @@ format: post
             <a class="button small radius alert" href="" align= "center" min-width="500px">Book a workshop with {{ page.expert_name }} now! </a>
         </div>
 		{% endif %}
-		
+
+	<!-- ToDo: Display of a potential workshop video of the expert-->
+
     </div><!-- /.row -->
 		</article>
 	</div><!-- /.medium-8.columns -->
-	
 	
 	
 	{% if page.sidebar == "left" %}
