@@ -12,9 +12,11 @@ permalink: "/experts_overview/"
   	<img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" alt="Tej">
   </div>
   <div class="large-6 columns">
+    	<b><a href="https://thiemowa.github.io/experts2/">Tej</a></b>  
+      <em> Sales and Marketing Expert </em>
+      <br>
       <blockquote>Life is too short, to only live at one place </blockquote>
       <br>
-  	<b><a href="https://thiemowa.github.io/experts2/">More about Tej</a></b>    
   </div>
 </div>
 
