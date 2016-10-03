@@ -8,7 +8,7 @@ permalink: "/experts2/"
 expert_name: "Tej Pochiraju"
 expert_first_name: "Tej"
 expert_domain: "Sales and Marketing"
-expert_image: ""
+expert_image: "tej.png"
 expert_image_workshop: ""
 expert_quote: "Life is too short, to only live at one place"
 domain_explanation: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id pulvinar nibh, at pharetra leo. Integer vehicula varius lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam hendrerit, dolor vel lobortis pellentesque, urna leo euismod est, ac bibendum nibh quam vel sapien. Suspendisse sagittis lorem id ligula aliquet, a dignissim arcu laoreet. Pellentesque sed orci quis enim semper pellentesque. Fusce nulla nisl, ornare vel luctus at, placerat eu nunc.
