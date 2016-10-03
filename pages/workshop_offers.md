@@ -59,5 +59,10 @@ Flexible timing
 Case study based
 Easy to access
 
+<font color="#9AFE2E" size="4">&#10003;</font> 
+<font color="#9AFE2E" size="4">&#10004;;</font> 
+
+
+
 
 
