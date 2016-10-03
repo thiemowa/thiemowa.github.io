@@ -17,9 +17,9 @@ Nullam neque magna, imperdiet eget purus a, maximus elementum nisl. Aenean sed e
 expert_biography: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis volutpat nisi, at fermentum nibh laoreet quis. Sed consectetur mi quis nibh gravida ultricies. Mauris auctor aliquam lacus id feugiat. Suspendisse eu semper ex, a facilisis justo. Vestibulum nec aliquet augue, ultricies luctus mauris. Nullam ullamcorper dolor at urna porta volutpat. Integer sed ultrices dolor. Praesent vitae vehicula leo, eu dignissim arcu. Ut porta ornare enim, quis suscipit metus vehicula sit amet. Nam ac ligula non mi fermentum blandit. Sed in tellus tortor. Morbi congue facilisis vulputate. Cras aliquam placerat feugiat. Maecenas scelerisque quis lorem quis consequat.
 
 Sed et enim luctus, pretium urna nec, interdum sem. Suspendisse scelerisque in turpis ut porttitor. Fusce odio massa, pretium pellentesque facilisis sed, finibus ac lorem. Phasellus quis sodales enim. Donec et enim a lorem blandit rhoncus eget et velit. In laoreet porta diam, non bibendum eros tincidunt quis. Sed non dui gravida, bibendum."
-expert_offer_service: "3000₹"
-expert_offer_counselling: "2000₹"
-expert_offer_workshop: "5000₹"
+expert_offer_service: "3000₹ / h"
+expert_offer_counselling: "2000₹ / h"
+expert_offer_workshop: "5000₹ / h"
 ---
 
 
