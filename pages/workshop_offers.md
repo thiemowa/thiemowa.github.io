@@ -9,13 +9,13 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-1.png" alt="laptop">
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-1.png" alt="laptop" style="vertical-align:middle">
   </div>
   <div class="small-4 large-4 columns">
-    	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-2.png" alt="laptop">
+    	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-2.png" alt="laptop" style="vertical-align:middle">
   </div>
    <div class="small-6 large-4 columns">
-     	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-3.png" alt="laptop">
+     	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-3.png" alt="laptop" style="vertical-align:middle">
   </div>
 </div>
 
