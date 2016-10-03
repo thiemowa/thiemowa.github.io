@@ -22,21 +22,15 @@ permalink: "/workshop_offers/"
 <br>
 
 <div class="row">
-  <div class="large-6 columns">
+  <div class="small-2 large-4 columns">
+  	<h2><a href="">Webinars</a></h2>
   </div>
-  <div class="large-6 columns">
+  <div class="small-4 large-4 columns">
+  	<h2><a href="">One-on-Ones</a></h2>
   </div>
-   <div class="large-6 columns">
+   <div class="small-6 large-4 columns">
+  	<h2><a href="">Workshops</a></h2>
   </div>
 </div>
-<br>
 
-<div class="row">
-  <div class="large-6 columns">
-  </div>
-  <div class="large-6 columns">
-  </div>
-   <div class="large-6 columns">
-  </div>
-</div>
 <br>
