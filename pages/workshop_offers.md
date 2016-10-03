@@ -29,8 +29,10 @@ permalink: "/workshop_offers/"
   	<h3><a href="" algin="center">One-on-Ones</a></h3>
   </div>
    <div class="small-6 large-4 columns">
-  	<h3><a href="" algin="center"> &#10004 Workshops</a></h3>
+  	<h3><a href="" algin="center" Workshops</a></h3>
   </div>
 </div>
 
 <br>
+
+<font color="#009933" size="4">&#10004;</font>
