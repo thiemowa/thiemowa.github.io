@@ -13,6 +13,7 @@ permalink: "/experts_overview/"
   </div>
   <div class="large-6 columns">
     	<b><a href="https://thiemowa.github.io/experts2/">Tej</a></b>  
+      <br>
       <em> Sales and Marketing Expert </em>
       <br>
       <blockquote>Life is too short, to only live at one place </blockquote>
