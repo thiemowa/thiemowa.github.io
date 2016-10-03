@@ -23,13 +23,13 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns">
-  	<h2><a href="">Webinars</a></h2>
+  	<h3><a href="">Webinars</a></h3>
   </div>
   <div class="small-4 large-4 columns">
-  	<h2><a href="">One-on-Ones</a></h2>
+  	<h3><a href="">One-on-Ones</a></h3>
   </div>
    <div class="small-6 large-4 columns">
-  	<h2><a href="">Workshops</a></h2>
+  	<h3><a href="">Workshops</a></h3>
   </div>
 </div>
 
