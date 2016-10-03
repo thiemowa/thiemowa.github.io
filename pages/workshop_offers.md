@@ -38,7 +38,11 @@ permalink: "/workshop_offers/"
 <div class="row">
   <div class="small-2 large-4 columns">
   <ul style="text-indent: 2em; list-style-type: none" >
-   <li>Montag</li>
+   <li     style="color:green; 
+    font-size: 1em;
+    content: "♫ "; 
+               |
+          ">Montag</li>
    <li>Freitag</li>
   </ul>
   </div>
@@ -48,6 +52,8 @@ permalink: "/workshop_offers/"
    <div class="small-6 large-4 columns">
   	<h3><a href="" algin="center"> Workshops</a></h3>
   </div>
+  
+  
 </div>
 
 <br>
