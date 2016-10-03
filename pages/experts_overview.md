@@ -14,7 +14,7 @@ permalink: "/experts_overview/"
   </div>
   <div class="large-6 columns">
   	<b><a  Sales and Marketing Expert>
-    <blockquote> {{ page.expert_quote }} </blockquote>
+    <blockquote>Life is too short, to only live at one place </blockquote>
     More about Tej.
 	<a href="{{ page.expert_linkedin }}">
             <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15_de_DE.png?locale=" width="80" height="15" border="0" alt="Linkedin Profile">
