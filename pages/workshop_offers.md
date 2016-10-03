@@ -4,17 +4,17 @@ title: "Learn your start up skills"
 meta_title: "workshop overview"
 subheadline: ""
 teaser: ""
-permalink: "/workshop_overview/"
+permalink: "/workshop_offers/"
 ---
 
 <div class="row">
-  <div class="large-6 columns">
+  <div class="medium-6 columns">
   	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-1.png" alt="laptop">
   </div>
-  <div class="large-6 columns">
+  <div class="medium-6 columns">
     	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-2.png" alt="laptop">
   </div>
-   <div class="large-6 columns">
+   <div class="medium-6 columns">
      	<img src="{{ site.url }}{{ site.baseurl }}/images/workshop_overview_symbols.png-3.png" alt="laptop">
   </div>
 </div>
