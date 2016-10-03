@@ -35,4 +35,4 @@ permalink: "/workshop_offers/"
 
 <br>
 
-<font color="#009933" size="4">&#10004;</font>
+<font color="#40FF00" size="4">&#10004;</font>
