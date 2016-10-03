@@ -4,7 +4,7 @@ title: "Overview of our Experts"
 meta_title: "experts overview"
 subheadline: ""
 teaser: ""
-permalink: "/experts_overview/"
+permalink: "/expert_overview/"
 ---
 
 <div class="row">
