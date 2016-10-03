@@ -37,7 +37,7 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns">
-  <ul style="text-indent: 2em; list-style: none" >
+  <ul style="text-indent: 2em; list-style-type: none" >
    <li>Montag</li>
    <li>Freitag</li>
   </ul>
@@ -58,4 +58,4 @@ Case study based
 Easy to access
 
 
-<font color="#40FF00" size="4">&#10004;</font>
+
