@@ -13,11 +13,8 @@ permalink: "/experts_overview/"
   </div>
   <div class="large-6 columns">
       <blockquote>Life is too short, to only live at one place </blockquote>
-  	<b><a href="https://thiemowa.github.io/experts2/">More about Tej</a></b>
-	<a href="{{ page.expert_linkedin }}">
-            <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15_de_DE.png?locale=" width="80" height="15" border="0" alt="Linkedin Profile">
-    </a>
-    
+      <br>
+  	<b><a href="https://thiemowa.github.io/experts2/">More about Tej</a></b>    
   </div>
 </div>
 
