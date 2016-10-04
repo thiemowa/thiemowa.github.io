@@ -14,9 +14,7 @@ permalink: "/experts_overview/"
   <div class="large-6 columns" align="center">
     	<h2><a href="https://thiemowa.github.io/experts2/ ">Tej</a></h2>
       <br>
-      <subheadline><em> Sales and Marketing Expert </em></subheadline>
-      <br>
-      <blockquote>Life is too short, to only live at one place.</blockquote>
+      <subheadline><em> Sales and Marketing</em></subheadline>
       <br>
   </div>
 </div>
@@ -30,10 +28,9 @@ permalink: "/experts_overview/"
   <div class="large-6 columns" align="center">
     	<h2><a href="https://thiemowa.github.io/experts2/">Dharmesh</a></h2>
       <br>
-      <subheadline><em> UX Design Expert</em></subheadline>
+      <subheadline><em> UX Design</em></subheadline>
       <br>
-      <blockquote>A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.</blockquote>
-      <br>
+
   </div>
 </div>
 
