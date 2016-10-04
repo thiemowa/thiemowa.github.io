@@ -80,7 +80,6 @@ permalink: "/workshop_offers/"
   <li>Legal &amp; Law</li>
   <li>Business Model</li>
   <li>Foundations in Marketing</li>
-  </ul>font color="#9AFE2E" size="4">&#10003;</font> Elaborated hand-outs </li>
   </ul>
   </div>
    <div class="small-6 large-4 columns">
