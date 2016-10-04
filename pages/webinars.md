@@ -7,10 +7,10 @@ teaser: ""
 permalink: "/webinars/"
 ---
 
-<div class="container" align= "left">
+
 		<h2>4 hour Marketing Workshop </h2>
 		<p class="subheadline"><em>25th of Oct. 2016 Expert</em><p>
-	</div>
+
   
 <div class="row">
   <div class="small-9 columns">
