@@ -38,8 +38,11 @@ permalink: "/workshop_offers/"
 <div class="row">
   <div class="small-2 large-4 columns">
   <ul style="text-indent: 2em; list-style-type: none" >
-   <li style="color:#9AFE2E; content:&#10003;">Montag</li>
-   <li>Freitag</li>
+   <li> <font color="#9AFE2E" size="4">&#10004;</font> 2 – 4 hours</li>
+   <li> <font color="#9AFE2E" size="4">&#10004;</font> Improving in a particular business topic </li>
+   <li> <font color="#9AFE2E" size="4">&#10004;</font> Flexible timing</li>
+   <li> <font color="#9AFE2E" size="4">&#10004;</font> Case study based</li>
+   <li> <font color="#9AFE2E" size="4">&#10004;</font> Easy to access</li>
   </ul>
   </div>
   <div class="small-4 large-4 columns">
@@ -53,11 +56,7 @@ permalink: "/workshop_offers/"
 </div>
 
 <br>
-2 – 4 hours
-Improving in a particular business topic 
-Flexible timing
-Case study based
-Easy to access
+
 
 <font color="#9AFE2E" size="4">&#10003;</font> 
 <font color="#9AFE2E" size="4">&#10004;</font> 
