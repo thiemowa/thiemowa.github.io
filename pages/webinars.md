@@ -18,7 +18,7 @@ permalink: "/webinars/"
   </div>
   <div class="small-6 columns">
   	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">With: Dharmesh Ba</a></h5>
-	<h6><em>UX Design Expert</em></h6>
+	<h6><em>UX Designer Expert</em></h6>
   </div>
    <div class="small-3 columns">
   	    <a class="button small radius alert" href="" align= "center" width="250">Join now</a>
@@ -39,7 +39,7 @@ permalink: "/webinars/"
   	  <img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" width="200" alt="Tej">
   </div>
   <div class="small-6 columns">
-  	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">Expert: Tej</a></h5>
+  	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">With: Tej</a></h5>
 	<h6><em>Finance Expert</em></h6>
   </div>
    <div class="small-3 columns">
