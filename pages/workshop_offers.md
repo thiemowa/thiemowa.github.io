@@ -38,20 +38,28 @@ permalink: "/workshop_offers/"
 <div class="row">
   <div class="small-2 large-4 columns">
   <ul style="list-style-type: none" align="left" >
-   <li align="left"> <font color="#9AFE2E" size="4">&#10003;</font> 2 – 4 hours</li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> 2 – 4 hours</li>
    <li> <font color="#9AFE2E" size="4">&#10003;</font> Improving in a particular business topic </li>
    <li> <font color="#9AFE2E" size="4">&#10003;</font> Flexible timing</li>
-   <li> <font color="#9AFE2E" size="4">&#10004;</font> Case study based</li>
-   <li> <font color="#9AFE2E" size="4">&#10004;</font> Easy to access</li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Case study based</li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Easy to access</li>
   </ul>
   </div>
   <div class="small-4 large-4 columns">
-  	<h3><a href="" algin="center">One-on-Ones</a></h3>
+  	  <ul style="list-style-type: none" align="left" >
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Learning the basics of entrepreneurship you need for founding a business</li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Case study based material </li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Elaborated hand-outs </li>
+  </ul>
   </div>
    <div class="small-6 large-4 columns">
-  	<h3><a href="" algin="center"> Workshops</a></h3>
+  	  <ul style="list-style-type: none" align="left" >
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> 2 – 4 hours live workshops</li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Interacting workshops with experts from various domains </li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Including Get-2-know dinner after work</li>
+   <li> <font color="#9AFE2E" size="4">&#10003;</font> Elaborated hand-outs </li>
+  </ul>
   </div>
-  
   
 </div>
 
