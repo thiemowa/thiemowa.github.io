@@ -30,7 +30,7 @@ permalink: "/experts_overview/"
   <div class="large-6 columns" align="center">
     	<h2><a href="https://thiemowa.github.io/experts2/">Dharmesh</a></h2>
       <br>
-      <subheadline><em> UX Design </em></subheadline>
+      <subheadline><em> UX Design Expert</em></subheadline>
       <br>
       <blockquote>A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.</blockquote>
       <br>
