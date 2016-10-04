@@ -63,7 +63,7 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns">
-  <h3 algin="center">Topics</h3>
+  <h3 algin="center"><font color="#164393">Topics</font></h3>
   <ul align="left" >
   <li>Finance &amp; Accounting</li>
   <li>Legal &amp; Law</li>
@@ -72,7 +72,7 @@ permalink: "/workshop_offers/"
   </ul>
   </div>
   <div class="small-4 large-4 columns">
-  <h3 algin="center">Topics</h3>
+   <h3 algin="center"><font color="#164393">Topics</font></h3>
   <ul align="left" >
   <li>Finance &amp; Accounting</li>
   <li>Legal &amp; Law</li>
@@ -81,7 +81,7 @@ permalink: "/workshop_offers/"
   </ul>
   </div>
    <div class="small-6 large-4 columns">
-  <h3 algin="center">Topics</h3>
+    <h3 algin="center"><font color="#164393">Topics</font></h3>
   <ul align="left" >
   <li>Finance &amp; Accounting</li>
   <li>Legal &amp; Law</li>
