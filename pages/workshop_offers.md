@@ -33,8 +33,6 @@ permalink: "/workshop_offers/"
   </div>
 </div>
 
-<br>
-
 <div class="row">
   <div class="small-2 large-4 columns">
   <ul style="list-style-type: none" align="left" >
@@ -63,11 +61,9 @@ permalink: "/workshop_offers/"
   
 </div>
 
-<br>
-
 <div class="row">
   <div class="small-2 large-4 columns">
-  <h4 algin="center">Topics</h4>
+  <h3 algin="center">Topics</h3>
   <ul align="left" >
   <li>Finance &amp; Accounting</li>
   <li>Legal &amp; Law</li>
@@ -76,7 +72,7 @@ permalink: "/workshop_offers/"
   </ul>
   </div>
   <div class="small-4 large-4 columns">
-  <h4 algin="center">Topics</h4>
+  <h3 algin="center">Topics</h3>
   <ul align="left" >
   <li>Finance &amp; Accounting</li>
   <li>Legal &amp; Law</li>
@@ -85,7 +81,7 @@ permalink: "/workshop_offers/"
   </ul>
   </div>
    <div class="small-6 large-4 columns">
-  <h4 algin="center">Topics</h4>
+  <h3 algin="center">Topics</h3>
   <ul align="left" >
   <li>Finance &amp; Accounting</li>
   <li>Legal &amp; Law</li>
@@ -96,7 +92,24 @@ permalink: "/workshop_offers/"
   
 </div>
 
-<br>
+<div class="row">
+  <div class="small-2 large-4 columns">
+  </div>
+   <div class="small-6 large-4 columns">
+  <h3 algin="center">500₹ per session</h3>
+  </div>
+  </div>
+  <div class="small-4 large-4 columns">
+  </div>
+   <div class="small-6 large-4 columns">
+  <h3 algin="center">2500 ₹ per h</h3>
+  </div>
+  </div>
+   <div class="small-6 large-4 columns">
+  <h3 algin="center">3500₹ per session</h3>
+  </div>
+  
+</div>
 
 
 <font color="#9AFE2E" size="4">&#10003;</font> 
