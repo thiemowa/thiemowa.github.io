@@ -13,10 +13,10 @@ permalink: "/webinars/"
 	</div>
   
 <div class="row">
-  <div class="small-2 large-4 columns">
+  <div class="small-9 columns">
   	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">Expert: Dharmesh Ba - UX DESIGNER EXPERT</a></h5>
   </div>
-   <div class="small-6 large-4 columns">
+   <div class="small-3 columns">
   	    <a class="button small radius alert" href="" align= "center" width="250">Join now</a>
   </div>
 </div>
