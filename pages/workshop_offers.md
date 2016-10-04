@@ -9,13 +9,13 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns" vertical-align: middle>
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="laptop" width="200" >
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="sustain" width="250" >
   </div>
   <div class="small-4 large-4 columns" vertical-align: middle >
-    	<img src="{{ site.url }}{{ site.baseurl }}/images/events-small.png" alt="laptop" align="center" width="200">
+    	<img src="{{ site.url }}{{ site.baseurl }}/images/events-small.png" alt="events" align="center" width="250">
   </div>
    <div class="small-6 large-4 columns" vertical-align: middle>
-     	<img src="{{ site.url }}{{ site.baseurl }}/images/cowork-small.pngg" alt="laptop" width="200">
+     	<img src="{{ site.url }}{{ site.baseurl }}/images/cowork-small.png" alt="cowork" width="250">
   </div>
 </div>
 
@@ -23,13 +23,13 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns">
-    <a class="button small radius alert" href="" align= "center" min-width="500px">Webinars</a>
+    <a class="button small radius alert" href="" align= "center" width="250">Webinars</a>
   </div>
   <div class="small-4 large-4 columns">
-    <a class="button small radius alert" href="" align= "center" min-width="500px">One-on-Ones</a>
+    <a class="button small radius alert" href="" align= "center" width="250">One-on-Ones</a>
   </div>
    <div class="small-6 large-4 columns">
-    <a class="button small radius alert" href="" align= "center" min-width="500px">Workshops </a>
+    <a class="button small radius alert" href="" align= "center" width="250">Workshops </a>
   </div>
 </div>
 
