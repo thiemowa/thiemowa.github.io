@@ -8,7 +8,7 @@ permalink: "/webinars/"
 ---
 
 <div class="container" align= "left">
-		<h2>4 hour Marketing Workshop </h2>
+		<h2>2 hour Marketing Webinar </h2>
 		<p class="subheadline"><em>25th of Oct. 2016 Expert</em><p>
 
   
@@ -27,6 +27,11 @@ permalink: "/webinars/"
 <br>
 <hr />
 <br>
+
+<div class="container" align= "left">
+		<h2>3 hour Basic of Finance Webinar </h2>
+		<p class="subheadline"><em>1st of Nov. 2016 Expert</em><p>
+
 
 <div class="row">
  <div class="small-3 columns">
