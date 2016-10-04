@@ -25,7 +25,7 @@ permalink: "/experts_overview/"
 
 <div class="row">
   <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.png" alt="Dharmesh">
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" alt="Dharmesh">
   </div>
   <div class="large-6 columns" align="center">
     	<h2><a href="https://thiemowa.github.io/experts2/">Dharmesh</a></h2>
