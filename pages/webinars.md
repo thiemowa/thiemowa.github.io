@@ -16,7 +16,7 @@ permalink: "/webinars/"
  <div class="small-3 columns">
   	  <img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" width="200" alt="Dharmesh">
   </div>
-  <div class="small-9 columns">
+  <div class="small-6 columns">
   	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">Expert: Dharmesh Ba - UX Dessign Expert</a></h5>
   </div>
    <div class="small-3 columns">
@@ -32,7 +32,7 @@ permalink: "/webinars/"
  <div class="small-3 columns">
   	  <img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" width="200" alt="Dharmesh">
   </div>
-  <div class="small-9 columns">
+  <div class="small-6 columns">
   	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">Expert: Dharmesh Ba - UX Dessign Expert</a></h5>
   </div>
    <div class="small-3 columns">
