@@ -23,13 +23,13 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns">
-  	<h3><a href="" algin="center">Webinars</a></h3>
+    <a class="button small radius alert" href="" align= "center" min-width="500px">Webinars</a>
   </div>
   <div class="small-4 large-4 columns">
-  	<h3><a href="" algin="center">One-on-Ones</a></h3>
+    <a class="button small radius alert" href="" align= "center" min-width="500px">One-on-Ones</a>
   </div>
    <div class="small-6 large-4 columns">
-  	<h3><a href="" algin="center"> Workshops</a></h3>
+    <a class="button small radius alert" href="" align= "center" min-width="500px">Workshops </a>
   </div>
 </div>
 
