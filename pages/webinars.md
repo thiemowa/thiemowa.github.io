@@ -18,7 +18,7 @@ permalink: "/webinars/"
   </div>
   <div class="small-6 columns">
   	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">With: Dharmesh Ba</a></h5>
-	<h6><em>UX Dessign Expert</em></h6>
+	<h6><em>UX Design Expert</em></h6>
   </div>
    <div class="small-3 columns">
   	    <a class="button small radius alert" href="" align= "center" width="250">Join now</a>
