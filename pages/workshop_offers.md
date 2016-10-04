@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Learn your start up skills"
-meta_title: "workshop overview"
+meta_title: "workshop offers"
 subheadline: ""
 teaser: ""
 permalink: "/workshop_offers/"
