@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Upcoming Webinars"
-meta_title: "webinars"
+meta_title: "Upcoming Webinars"
 subheadline: ""
 teaser: ""
 permalink: "/webinars/"
