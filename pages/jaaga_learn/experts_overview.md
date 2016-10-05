@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Overview of our Experts"
-meta_title: "experts overview"
+meta_title: "Jaaga Experts"
 subheadline: ""
 teaser: ""
 permalink: "/experts_overview/"
