@@ -10,17 +10,19 @@ permalink: "/experts_overview/"
 {% for workshop_expert in site.data.workshop_expert %}
   <li>
    {{ workshop_expert.name }}
-      {{ workshop_expert.expert }}
+    {{ workshop_expert.expert }}
   </li>
 {% endfor %}
 </ul>
 
+
+{% for workshop_expert in site.data.workshop_expert %}
 <div class="row">
   <div class="large-6 columns">
-  	<a href="https://thiemowa.github.io/experts2/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" width="200"  alt="Tej"></a>
+  	<a href="https://thiemowa.github.io/{{ workshop_expert.profil_url }}/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/ {{ workshop_expert.image }}" width="200"  alt="{{ workshop_expert.expert }}"></a>
   </div>
   <div class="large-6 columns" align="center">
-    	<h2><a href="https://thiemowa.github.io/experts2/ ">Tej</a></h2>
+    	<h2><a href="https://thiemowa.github.io/{{ workshop_expert.profil_url }}/">{{ workshop_expert.expert }}</a></h2>
       <br>
       <subheadline><em> Sales and Marketing</em></subheadline>
       <br>
@@ -28,18 +30,4 @@ permalink: "/experts_overview/"
 </div>
 
 <br>
-
-<div class="row">
-  <div class="large-6 columns">
-  		<a href="https://thiemowa.github.io/experts2/" target="_blank"><img href="https://thiemowa.github.io/experts2/" src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" width="200" alt="Dharmesh"></a>
-  </div>
-  <div class="large-6 columns" align="center">
-    	<h2><a href="https://thiemowa.github.io/experts2/">Dharmesh</a></h2>
-      <br>
-      <subheadline><em> UX Design</em></subheadline>
-      <br>
-
-  </div>
-</div>
-
-<br>
+{% endfor %}
