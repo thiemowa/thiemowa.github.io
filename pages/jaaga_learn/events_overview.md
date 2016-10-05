@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Learn your start up skills"
-meta_title: "workshop offers"
+meta_title: "events offers"
 subheadline: ""
 teaser: ""
-permalink: "/workshop_offers/"
+permalink: "/events_overview/"
 ---
 
 <div class="row">
