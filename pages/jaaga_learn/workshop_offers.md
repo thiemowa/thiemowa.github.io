@@ -52,10 +52,10 @@ permalink: "/workshop_offers/"
   </div>
    <div class="small-6 large-4 columns">
   	  <ul style="list-style-type: none" align="left" >
-   <li> <font color="#9AFE2E" size="4">&#10003;</font> 2 – 4 hours live workshops</li>
-   <li> <font color="#9AFE2E" size="4">&#10003;</font> Interacting workshops with experts from various domains </li>
-   <li> <font color="#9AFE2E" size="4">&#10003;</font> Including Get-2-know dinner after work</li>
-   <li> <font color="#9AFE2E" size="4">&#10003;</font> Elaborated hand-outs </li>
+   <li style="white-space:pre-wrap"> <font color="#9AFE2E" size="4">&#10003;</font> 2 – 4 hours live workshops</li>
+   <li style="white-space:pre-wrap"> <font color="#9AFE2E" size="4">&#10003;</font> Interacting workshops with experts from various domains </li>
+   <li style="white-space:pre-wrap"> <font color="#9AFE2E" size="4">&#10003;</font> Including Get-2-know dinner after work</li>
+   <li style="white-space:pre-wrap"> <font color="#9AFE2E" size="4">&#10003;</font> Elaborated hand-outs </li>
   </ul>
   </div>
   
