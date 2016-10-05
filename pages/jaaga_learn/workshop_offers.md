@@ -35,7 +35,7 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns"style="text-align: left">
-  <ul style="list-style-type: none" align="left" style="width: 50%; margin: 0 auto; text-align: left">
+  <ul style="list-style-type: none" align="left" >
    <li> <font color="#9AFE2E" size="4">&#10003;</font> 2 – 4 hours</li>
    <li> <font color="#9AFE2E" size="4">&#10003;</font> Improving in a particular business topic </li>
    <li> <font color="#9AFE2E" size="4">&#10003;</font> Flexible timing</li>
