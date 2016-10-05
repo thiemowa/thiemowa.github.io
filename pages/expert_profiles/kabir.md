@@ -17,11 +17,13 @@ expert_twitter: "https://twitter.com/smexperts23"
 expert_instagram: ""
 expert_quote: "There are three ways to do a thing: the right way, the wrong way and the way I do it."
 domain_explanation: "Sales & Marketing is crucial for an early stage startups for the following reasons:
- 
- 1) Brand awareness
- 2) Building the customer database right from the day 1
- 3) Customers feedback/reviews is quite important for product enhancement
- 4) Most importantly, revenue generation"
+ <ol>
+ <li> Brand awareness </li>
+ <li> Building the customer database right from the day one </li>
+ <br>
+ <li> Customers feedback/reviews is quite important for product enhancement  </li>
+ <li> Most importantly, revenue generation</li>
+ </ol>"
 expert_biography: "Kabir is a Marketing Geek and a Strategic Online marketing expert with a strong blend of creative and analytic skills. He has over 6 years of experience doing online marketing for B2B as well as B2C businesses. As a Marketing Business Coach, he help/educate businesses to grow online through proven methods. His specialties are online traffic generation, lead generation, SEO, PPC, Social Media Marketing, Brand Promotion. He is Google Ad words Certified, Google Analytics certified, Video Advertising, Search Advertising and Display Advertising Certified."
 ---
 
