@@ -61,7 +61,12 @@ format: post
 	<blockquote> {{ page.expert_quote }} </blockquote>
 	<a href="{{ page.expert_linkedin }}">
             <img src="http://lawyermeltdown.com/wp-content/uploads/2014/03/Official-LinkedIn-InBug-2CRev.png" border="0" width="50" alt="Linkedin Profile">
-    </a>	
+ 	  </a>	
+	{% if page.expert_facebook %}
+	<a href="{{ page.expert_facebook }}">
+            <img src="hhttps://en.facebookbrand.com/wp-content/uploads/2016/05/FB-fLogo-Blue-broadcast-2.png" border="0" width="50" alt="Facebook Profile">
+ 	  </a>	
+	{% endif %}	
 		
 	</div>
 		
