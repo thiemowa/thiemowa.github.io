@@ -9,13 +9,13 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns" vertical-align: middle>
-  		<a href=""><img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="sustain" width="200"></a>
+  		<a href="" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="sustain" width="200"></a>
   </div>
   <div class="small-4 large-4 columns" vertical-align: middle >
-    	<a href=""><img src="{{ site.url }}{{ site.baseurl }}/images/events-small.png" alt="events" align="center" width="200"></a>
+    	<a href="" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/events-small.png" alt="events" align="center" width="200"></a>
   </div>
    <div class="small-6 large-4 columns" vertical-align: middle>
-     	<a href=""><img src="{{ site.url }}{{ site.baseurl }}/images/cowork-small.png" alt="cowork" width="200"></a>
+     	<a href="" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/cowork-small.png" alt="cowork" width="200"></a>
   </div>
 </div>
 
