@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/webinars/"
 ---
-{% for workshop_expert in site.data.workshop_expert %}
+{% for webinars in site.data.webinars %}
 
 <div class="container" align= "left">
 		<h2>{{ webinars.title }} </h2>
