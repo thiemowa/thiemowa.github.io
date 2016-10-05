@@ -11,6 +11,10 @@ expert_domain: "UX Designer"
 expert_image: "dharmesh.jpg"
 expert_image_workshop: "2016_Workshop Collage.jpg"
 expert_linkedin: "https://www.linkedin.com/in/dharmeshba"
+expert_facebook: 
+expert_webside: 
+expert_twitter: 
+expert_instagram: 
 expert_quote: "Life is too short, to only live at one place"
 domain_explanation: "Design brings in the human aspect into any product or service. However attractive an idea might be on a paper, it takes a bunch of people to use the product and make it successful. Design helps you in facilitating the conversation between your product and people. For any entrepreneur, who is building a people centric startup, design and its understanding becomes an essential skill."
 expert_biography: "Dhamesh has been working with startups for the past 3 years and has in depth understanding of how a product shapes itself during various phases of a startup. His expertise can help the entrepreneurs in eliminating the unnecessary and retaining the essential for a product . 
