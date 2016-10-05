@@ -12,9 +12,9 @@ expert_image: "kapil profile image.jpg"
 expert_image_workshop: "Kapil chopra - seminar image.JPG"
 expert_linkedin: "https://in.linkedin.com/in/smartmarketingtribe"
 expert_facebook: "https://www.facebook.com/smartmarketingtribe/"
-expert_webside: ""
+expert_webside: "https://smartmarketingtribe.com"
 expert_twitter: "https://twitter.com/smexperts23"
-expert_instagram: ""
+expert_instagram: 
 expert_quote: "There are three ways to do a thing: the right way, the wrong way and the way I do it."
 domain_explanation: "Sales & Marketing is crucial for an early stage startups for the following reasons:
  <ol>
