@@ -9,7 +9,7 @@ permalink: "/workshop_offers/"
 
 <div class="row">
   <div class="small-2 large-4 columns" vertical-align: middle>
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="sustain" width="250" >
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="sustain" style="width:200px" >
   </div>
   <div class="small-4 large-4 columns" vertical-align: middle >
     	<img src="{{ site.url }}{{ site.baseurl }}/images/events-small.png" alt="events" align="center" width="250">
