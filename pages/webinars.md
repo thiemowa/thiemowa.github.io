@@ -14,10 +14,10 @@ permalink: "/webinars/"
   
 <div class="row">
  <div class="small-3 columns">
-  	 <a href="https://thiemowa.github.io/experts2/"> <img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" width="200" alt="Dharmesh"></a>
+  	 <a href="https://thiemowa.github.io/experts2/" target="_blank"> <img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" width="200" alt="Dharmesh"></a>
   </div>
   <div class="small-6 columns">
-  	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">With: Dharmesh Ba</a></h5>
+  	<h5><a href="https://thiemowa.github.io/experts2/" algin="center" target="_blank">With: Dharmesh Ba</a></h5>
 	<h6><em>UX Designer Expert</em></h6>
   </div>
    <div class="small-3 columns">
@@ -36,10 +36,10 @@ permalink: "/webinars/"
 
 <div class="row">
  <div class="small-3 columns">
-  	  <a href="https://thiemowa.github.io/experts2/"><img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" width="200" alt="Tej"></a>
+  	  <a href="https://thiemowa.github.io/experts2/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" width="200" alt="Tej"></a>
   </div>
   <div class="small-6 columns">
-  	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">With: Tej</a></h5>
+  	<h5><a href="https://thiemowa.github.io/experts2/" algin="center" target="_blank">With: Tej</a></h5>
 	<h6><em>Finance Expert</em></h6>
   </div>
    <div class="small-3 columns">
