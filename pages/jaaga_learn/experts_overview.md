@@ -6,15 +6,6 @@ subheadline: ""
 teaser: ""
 permalink: "/experts_overview/"
 ---
-<ul>
-{% for workshop_expert in site.data.workshop_expert %}
-  <li>
-   {{ workshop_expert.name }}
-    {{ workshop_expert.expert }}
-  </li>
-{% endfor %}
-</ul>
-
 
 {% for workshop_expert in site.data.workshop_expert %}
 <div class="row">
