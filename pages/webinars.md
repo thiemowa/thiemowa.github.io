@@ -14,7 +14,7 @@ permalink: "/webinars/"
   
 <div class="row">
  <div class="small-3 columns">
-  	  <img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" width="200" alt="Dharmesh">
+  	 <a href="https://thiemowa.github.io/experts2/"> <img src="{{ site.url }}{{ site.baseurl }}/images/dharmesh.jpg" width="200" alt="Dharmesh"></a>
   </div>
   <div class="small-6 columns">
   	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">With: Dharmesh Ba</a></h5>
@@ -36,7 +36,7 @@ permalink: "/webinars/"
 
 <div class="row">
  <div class="small-3 columns">
-  	  <img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" width="200" alt="Tej">
+  	  <a href="https://thiemowa.github.io/experts2/"><img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" width="200" alt="Tej"></a>
   </div>
   <div class="small-6 columns">
   	<h5><a href="https://thiemowa.github.io/experts2/" algin="center">With: Tej</a></h5>
