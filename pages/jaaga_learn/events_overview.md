@@ -9,13 +9,13 @@ permalink: "/events_overview/"
 
 <div class="row">
   <div class="small-2 large-4 columns" style="vertical-align: middle">
-  		<a href="" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="sustain" width="200"></a>
+  		<a href="https://thiemowa.github.io/webinars/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/sustain-small.png" alt="sustain" width="200"></a>
   </div>
   <div class="small-4 large-4 columns" vertical-align: middle >
-    	<a href="" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/events-small.png" alt="events" align="center" width="200"></a>
+    	<a href="https://thiemowa.github.io/one-on-ones/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/events-small.png" alt="events" align="center" width="200"></a>
   </div>
    <div class="small-6 large-4 columns" vertical-align: middle>
-     	<a href="" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/cowork-small.png" alt="cowork" width="200"></a>
+     	<a href="https://thiemowa.github.io/workshops/" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/cowork-small.png" alt="cowork" width="200"></a>
   </div>
 </div>
 
@@ -23,13 +23,13 @@ permalink: "/events_overview/"
 
 <div class="row">
   <div class="small-2 large-4 columns">
-    <a class="button small radius alert" href="" align= "center" style="width:200px">Webinars</a>
+    <a class="button small radius alert" href="https://thiemowa.github.io/webinars/" align= "center" style="width:200px">Webinars</a>
   </div>
   <div class="small-4 large-4 columns">
-    <a class="button small radius alert" href="" align= "center" style="width:200px">One-on-Ones</a>
+    <a class="button small radius alert" href="https://thiemowa.github.io/one-on-ones/" align= "center" style="width:200px">One-on-Ones</a>
   </div>
    <div class="small-6 large-4 columns">
-    <a class="button small radius alert" href="" align= "center" style="width:200px">Workshops </a>
+    <a class="button small radius alert" href="https://thiemowa.github.io/workshops/" align= "center" style="width:200px">Workshops </a>
   </div>
 </div>
 
