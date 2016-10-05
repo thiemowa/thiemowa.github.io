@@ -1,4 +1,4 @@
-style="width: 50%; margin: 0 auto; text-align: left"---
+---
 layout: page
 title: "Learn your start up skills"
 meta_title: "workshop offers"
