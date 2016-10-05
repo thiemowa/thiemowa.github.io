@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "One-on-One Offers"
-meta_title: "One-on-One Offers"
+meta_title: "one-on-Ooe"
 subheadline: ""
 teaser: ""
 permalink: "/one-on-ones/"
 ---
+
 {% for events in site.data.events %}
 {% if events.one-on-ones %}
 
