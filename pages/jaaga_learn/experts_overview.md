@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/experts_overview/"
 ---
 <ul>
-{% for member in site.data.workshop_expert %}
+{% for workshop_expert in site.data.workshop_expert %}
   <li>
    {{ workshop_expert.name }}
       {{ workshop_expert.expert }}
