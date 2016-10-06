@@ -4,9 +4,9 @@ title: ""
 meta_title: "Experts - Jaaga Startup"
 subheadline: ""
 teaser: ""
-permalink: "/expert_kabir/"
+permalink: "/expert_kapil/"
 expert_name: "Kapil Chopra"
-expert_first_name: "Kabir"
+expert_first_name: "Kapil"
 expert_domain: "Sales and Marketing"
 expert_image: "kapil profile image.jpg"
 expert_image_workshop: "Kapil chopra - seminar image.JPG"
@@ -24,7 +24,7 @@ domain_explanation: "Sales & Marketing is crucial for an early stage startups fo
  <li> Customers feedback/reviews is quite important for product enhancement  </li>
  <li> Most importantly, revenue generation</li>
  </ol>"
-expert_biography: "Kabir is a Marketing Geek and a Strategic Online marketing expert with a strong blend of creative and analytic skills. He has over 6 years of experience doing online marketing for B2B as well as B2C businesses. As a Marketing Business Coach, he help/educate businesses to grow online through proven methods. His specialties are online traffic generation, lead generation, SEO, PPC, Social Media Marketing, Brand Promotion. He is Google Ad words Certified, Google Analytics certified, Video Advertising, Search Advertising and Display Advertising Certified."
+expert_biography: "Kapil is a Marketing Geek and a Strategic Online marketing expert with a strong blend of creative and analytic skills. He has over 6 years of experience doing online marketing for B2B as well as B2C businesses. As a Marketing Business Coach, he help/educate businesses to grow online through proven methods. His specialties are online traffic generation, lead generation, SEO, PPC, Social Media Marketing, Brand Promotion. He is Google Ad words Certified, Google Analytics certified, Video Advertising, Search Advertising and Display Advertising Certified."
 ---
 
 
