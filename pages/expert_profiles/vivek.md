@@ -9,7 +9,7 @@ expert_name: "Vivek Vijayan"
 expert_first_name: "Vivek"
 expert_domain: "Product Management"
 expert_image: "vivek.jpg"
-expert_image_workshop: "Kapil chopra - seminar image.JPG"
+expert_image_workshop: "2016_Workshop Collage.jpg"
 expert_linkedin: "http://in.linkedin.com/in/vivekv1302"
 expert_facebook:
 expert_webside: "https://productmantra.net/"
