@@ -1,0 +1,164 @@
+---
+layout: default
+format: post
+---
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				{% if page.image.title %}
+				<figure>
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+
+					{% if page.image.caption_url && page.image.caption %}
+					<figcaption class="text-right">
+						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+					</figcaption>
+					{% elsif page.image.caption %}
+					<figcaption class="text-right">
+						{{ page.image.caption }}
+					</figcaption>
+					{% endif %}
+				</figure>
+				{% endif %}
+
+				<div itemprop="name">
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1>{{ page.title }}</h1>
+				</div>
+			</header>
+
+
+			{% if page.teaser %}
+			<p class="teaser" itemprop="description">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+			<div itemprop="articleSection">
+			{{ content }}
+			</div>
+
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
+			{% endif %}
+
+			{% if page.comments == true %}
+			{% include _comments.html %}
+			{% endif %}
+				
+	<div class="container" align= "left">
+		<h2>{{ page.expert_name }}</h2>
+		<p class="subheadline"><em>{{ page.expert_domain }} Expert</em><p>
+	</div>
+	<!-- Display of experts picture and quote -->
+
+	<div class="row">	
+		<div class="large-6 columns">
+	<a href="{{ page.expert_linkedin }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ page.expert_image }}" alt="expert_image" width="200" height="200" /></a>
+	</div>	
+	<div class="large-6 columns" align= "center">
+	<blockquote> {{ page.expert_quote }} </blockquote>
+		
+	<!-- Display of social media links if available -->	
+	<a href="{{ page.expert_linkedin }}" target="_blank">
+            <img src="http://lawyermeltdown.com/wp-content/uploads/2014/03/Official-LinkedIn-InBug-2CRev.png" border="0" width="50" alt="Linkedin Profile">
+ 	  </a>	
+	{% if page.expert_facebook %}
+	<a href="{{ page.expert_facebook }}" target="_blank">
+            <img src="https://en.facebookbrand.com/wp-content/uploads/2016/05/FB-fLogo-Blue-broadcast-2.png" border="0" width="48" alt="Facebook Profile">
+ 	  </a>	
+	{% endif %}
+	{% if page.expert_twitter %}
+	<a href="{{ page.expert_twitter }}" target="_blank">
+            <img src="http://www.thewrap.com/wp-content/uploads/2015/07/twitter-logo-618-340x300.jpg" border="0" width="50" alt="Facebook Profile">
+ 	  </a>	
+	{% endif %}
+	{% if page.expert_instagram %}
+	<a href="{{ page.expert_instagram }}" target="_blank">
+            <img src="https://5a5a57ff32a328601212-ee0df397c56b146e91fe14be42fa361d.ssl.cf1.rackcdn.com/icon/instagram_logos_app_icon/YyepHGHDvkl1wFkUHw8Y/Instagram-v051916_200.png" border="0" width="50" alt="Facebook Profile">
+ 	  </a>	
+	{% endif %}
+	{% if page.expert_webside %}
+	<a href="{{ page.expert_webside }}" target="_blank">
+            <img src="http://www.freeiconspng.com/uploads/home-icon-4.png	" border="0" width="50" alt="Facebook Profile">
+ 	  </a>	
+	{% endif %}	
+		
+	</div>
+	
+	</div>
+	
+	<br>
+		
+	<!-- Display of "Why the experts domain is important" -->
+
+	<div class="container" align= "left">
+		<h4><strong> Why {{page.expert_domain}}?</strong></h4>
+	</div>
+	
+	<br>
+			
+	<div>
+		{{ page.domain_explanation }}
+	</div>
+			
+	<br>		
+	<!-- Display of a potential workshop picutre with the expert -->
+	<p><img src="{{ site.url }}{{ site.baseurl }}/images/{{page.expert_image_workshop}}" alt="Workshop_Picture" align="center" orientation= "center"/></p>	
+	
+	<br>
+	<!-- Display of the "Why experts is an expert in his domain" -->
+			
+	<div class="container" align= "left">
+		<h4><strong>Why {{page.expert_first_name}}?</strong></h4>
+	</div>	
+	
+	<br>
+	<div>
+		{{ page.expert_biography }}
+	</div>
+		
+	<br>
+	<hr />
+	<!-- Display of the call-to-action button depending on the experts offers -->	
+			
+		
+	<div class="container" align= "left">
+		<h5><strong>Are you interested in working with {{page.expert_first_name}}?</strong></h5>
+	</div>
+	
+	<br>
+
+		<div class="row">
+  <div class="small-2 large-4 columns">
+            <a class="button small radius alert" href="" align= "center" style="width:200px">Workshop</a>
+  </div>
+  <div class="small-4 large-4 columns">
+            <a class="button small radius alert" href="" align= "center" style="width:200px">1-to-1 Counselling </a>
+  </div>
+   <div class="small-6 large-4 columns">
+            <a class="button small radius alert" href="" align= "center" style="width:200px">Service Contract </a>
+			</div>
+</div>
+
+	<!-- ToDo: Display of a potential workshop video of the expert -->
+
+    </div><!-- /.row -->
+		</article>
+	</div><!-- /.medium-8.columns -->
+	
+	
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->
