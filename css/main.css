@@ -1,6 +1,5 @@
 body {https://github.com/thiemowa/thiemowa.github.io/blob/main/css/main.css
-    margin: 70px auto;
-    align: center;
+    margin:60px auto;
     width: 70%;
 }
 nav ul, footer ul {
@@ -54,6 +53,7 @@ table {
 
 td, th {
   border: 0px ;
+  align: center;
   padding: 5px;
 }
 
