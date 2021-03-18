@@ -2,6 +2,12 @@ body {
     margin: 60px auto;
     width: 60%;
 }
+img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 5px;
