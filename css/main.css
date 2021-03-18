@@ -47,14 +47,13 @@ ul.posts li {
     list-style: none;
 }
 table {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  margin: auto; 
+  font-family:'Helvetica', 'Arial', 'Sans-Serif'; 
   width: 100%;
 }
 
 td, th {
   border: 0px ;
-  margin: auto; 
+  text-align:center;
   padding: 5px;
 }
 
