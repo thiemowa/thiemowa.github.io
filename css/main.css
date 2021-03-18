@@ -4,7 +4,7 @@ body {https://github.com/thiemowa/thiemowa.github.io/blob/main/css/main.css
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
 }
@@ -54,7 +54,6 @@ table {
 
 td, th {
   border: 0px ;
-  text-align: left;
-  padding: 8px;
+  padding: 5px;
 }
 
