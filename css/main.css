@@ -1,5 +1,6 @@
 body {https://github.com/thiemowa/thiemowa.github.io/blob/main/css/main.css
     margin:60px auto;
+    vertical-align: middle;
     width: 70%;
 }
 nav ul, footer ul {
@@ -48,12 +49,12 @@ ul.posts li {
 }
 table {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  width: 70%;
+  vertical-align: middle;
+  width: 100%;
 }
 
 td, th {
   border: 0px ;
-  align: center;
   padding: 5px;
 }
 
