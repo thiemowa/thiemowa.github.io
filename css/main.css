@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
-    vertical-align: middle;
-    width: 70%;
+    width: 60%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -49,7 +48,6 @@ ul.posts li {
 }
 table {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  vertical-align: middle;
   width: 100%;
 }
 
