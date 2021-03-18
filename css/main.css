@@ -1,4 +1,4 @@
-body {
+body {https://github.com/thiemowa/thiemowa.github.io/blob/main/css/main.css
     margin: 60px auto;
     width: 70%;
 }
@@ -46,3 +46,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+table {
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 0px ;
+  text-align: left;
+  padding: 8px;
+}
+
