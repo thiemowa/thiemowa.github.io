@@ -48,11 +48,13 @@ ul.posts li {
 }
 table {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  margin: auto; 
   width: 100%;
 }
 
 td, th {
   border: 0px ;
+  margin: auto; 
   padding: 5px;
 }
 
